@@ -2053,7 +2053,9 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### CakePHP
 
-* [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
+* [CakePHP Cookbook 2.x](https://book.cakephp.org/2/_downloads/en/CakePHPCookbook.pdf) (PDF)
+* [CakePHP Cookbook 3.x](https://book.cakephp.org/3/_downloads/en/CakePHPCookbook.pdf) (PDF)
+* [CakePHP Cookbook 4.x](https://book.cakephp.org/4/_downloads/en/CakePHPCookbook.pdf) (PDF)
 
 
 #### CodeIgniter
